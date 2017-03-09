@@ -17,4 +17,3 @@
 9. 管理连接
 
 10. 权限设置
-<uses-permissionandroid:name="android.permission.BLUETOOTH_ADMIN" /><uses-permissionandroid:name="android.permission.BLUETOOTH" />
